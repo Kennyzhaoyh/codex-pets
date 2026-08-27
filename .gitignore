@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local generation and repair workspaces. The curated packages live in pets/.
+*-run/
+
+# Legacy/local showcase outputs replaced by previews/.
+/dogking/
+/lyman-animation-showcase/
+/lyman-animation-showcase-validation.json
+/build_lyman_showcase.py
+
+# Archives and local scratch files.
+*.zip
+*.tmp
