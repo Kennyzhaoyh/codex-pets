@@ -8,6 +8,8 @@
 /lyman-animation-showcase/
 /lyman-animation-showcase-validation.json
 /build_lyman_showcase.py
+/piggy/
+/transfer/
 
 # Archives and local scratch files.
 *.zip
